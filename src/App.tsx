@@ -1,5 +1,6 @@
 import React from 'react';
 
+import SignIn from './pages/SignIn';
 import GlobalStyle from './styles/global';
 
 const App: React.FC = () => {
@@ -7,7 +8,7 @@ const App: React.FC = () => {
     <>
       <GlobalStyle />
 
-      <h1>Hello Gostack</h1>
+      <SignIn />
     </>
   );
 };
