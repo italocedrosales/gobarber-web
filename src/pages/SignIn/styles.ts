@@ -52,7 +52,7 @@ export const Content = styled.div`
     display: flex;
     align-items: center;
 
-    svg: {
+    #icon {
       margin-right: 16px;
     }
 

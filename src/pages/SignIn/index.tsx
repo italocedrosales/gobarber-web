@@ -32,7 +32,7 @@ const SignIn: React.FC = () => {
         </form>
 
         <a href="login">
-          <FiLogIn />
+          <FiLogIn id="icon" />
           Criar conta
         </a>
       </Content>

@@ -38,7 +38,7 @@ const SignUp: React.FC = () => {
         </Form>
 
         <a href="login">
-          <FiArrowLeft />
+          <FiArrowLeft id="icon" />
           Voltar para logon
         </a>
       </Content>
